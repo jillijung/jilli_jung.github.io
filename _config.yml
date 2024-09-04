@@ -21,7 +21,7 @@ repository               : "jillijung/jillijung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jillijung.png"
   name             : "Jilli Jung"
   pronouns         : "she/her"  
   bio              : "Postdoctoral Researcher at Stanford University"
