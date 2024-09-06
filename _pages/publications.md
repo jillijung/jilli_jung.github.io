@@ -1,11 +1,10 @@
 ---
-permalink: /
-title: "Research"
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /publication.html
 ---
+
 
 ## Peer-reviewed Journal Articles
 Jung, J., & Fenelon, A. (2024). Do later school start times improve adolescents' sleep and substance use? A quasi-experimental study. Preventive Medicine, 185. https://doi.org/10.1016/j.ypmed.2024.108028.
