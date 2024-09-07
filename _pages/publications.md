@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Jilli's Google Scholar](https://scholar.google.com/citations?user=7SVYZhEAAAAJ&hl=en)
 
 ## Peer-reviewed Journal Articles
 * Gopalan, M., **Jung, J.**, Chiang, S., Linden-Carmichae, A., & Lanza, S. (Accepted). College Students’ Sense of Belonging and Alcohol Use amidst COVID-19: Evidence from a 21-day Daily Diary Study. *PloS one*.
