@@ -18,3 +18,5 @@ As a researcher, my goal is to provide rigorous empirical evidence on how polici
 I received my PhD in Education Policy with a dual-title in Comparative and International Education and a minor in Demography from [Pennsylvania State University](https://ed.psu.edu/academics/departments/department-education-policy-studies). I earned a BA and MA in Ethics Education from [Seoul National University](https://edu.snu.ac.kr/en/) in South Korea. In my free time, I enjoy playing and watching tennis, bouldering, and exploring coffee shops.
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7SVYZhEAAAAJ")
+
+[CV](https://github.com/jillijung/jillijung.github.io/raw/master/_pages/jilli_cv.pdf)
