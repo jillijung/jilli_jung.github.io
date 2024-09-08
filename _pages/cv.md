@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/jilli_cv.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/jilli_cv.pdf" width="500" height="350" type='application/pdf'>
 
-Download Jilli's CV [here](https://github.com/jillijung/jillijung.github.io/raw/master/files/jilli_cv.pdf)
+Download my CV as PDF [here](https://github.com/jillijung/jillijung.github.io/raw/master/files/jilli_cv.pdf)

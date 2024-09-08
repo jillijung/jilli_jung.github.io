@@ -19,4 +19,4 @@ I received my PhD in Education Policy with a dual-title in Comparative and Inter
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7SVYZhEAAAAJ")
 
-[CV](https://github.com/jillijung/jillijung.github.io/raw/master/_pages/jilli_cv.pdf)
+[CV](https://jillijung.github.io/cv/)
