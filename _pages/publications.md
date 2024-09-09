@@ -10,7 +10,7 @@ You can access my [Google Scholar Profile here](https://scholar.google.com/citat
 ## Peer-reviewed Journal Articles
 * Gopalan, M., **Jung, J.**, Chiang, S., Linden-Carmichae, A., & Lanza, S. (Accepted). College Students’ Sense of Belonging and Alcohol Use amidst COVID-19: Evidence from a 21-day Daily Diary Study. *PloS one*.
 
-* **Jung, J.**, & Fenelon, A. (2024). Do later school start times improve adolescents' sleep and substance use? A quasi-experimental study. *Preventive Medicine*, 185. [https://doi.org/10.1016/j.ypmed.2024.108028](https://doi.org/10.1016/j.ypmed.2024.108028). ([**Link to Pre-print**](https://edworkingpapers.com/ai22-668))
+* **Jung, J.**, & Fenelon, A. (2024). Do later school start times improve adolescents' sleep and substance use? A quasi-experimental study. *Preventive Medicine*, 185. [https://doi.org/10.1016/j.ypmed.2024.108028](https://doi.org/10.1016/j.ypmed.2024.108028). ([**Link to Pre-print**](https://edworkingpapers.com/ai24-974))
 
 * **Jung, J.**, & Gopalan, M. (2023). The Stubborn Unresponsiveness of Youth Voter Turnout to Civic Education: Quasi-experimental Evidence from State-Mandated Civics Tests. *Educational Evaluation and Policy Analysis*. [https://doi.org/10.3102/01623737231195887](https://doi.org/10.3102/01623737231195887) ([**Link to Open Access**](https://doi.org/10.3102/01623737231195887))
     * Policy Brief: [Scholars Strategy Network](https://scholars.org/contribution/state-mandated-civics-test-policy-does-not)
