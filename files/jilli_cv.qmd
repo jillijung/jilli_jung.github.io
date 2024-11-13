@@ -1,7 +1,7 @@
 ---
 title: "Jilli Jung"
 subtitle: "[Personal website](https://jillijung.github.io) | [Google Scholar](https://scholar.google.com/citations?user=7SVYZhEAAAAJ&hl=en) | Email: jilli@stanford.edu"
-date: September 9, 2024
+date: November 12, 2024
 date-format: long
 format:
   pdf:
