@@ -23,7 +23,6 @@ format:
 - **B.A. in Ethics Education**, Minor: Sociology, Seoul National University (2013-2017)
 
 
-
 ## ACADEMIC EMPLOYMENT
 
 - **Post-doctoral Researcher**, Stanford University (2024-)
@@ -39,7 +38,7 @@ format:
 - **Technical Skills**:
     R, STATA, QUARTO, MPLUS
 
-
+## RESEARCH INTERESTS & TECHNICAL SKILLS
 
 ## PEER-REVIEWED JOURNAL ARTICLES
 
@@ -78,13 +77,17 @@ format:
 
 
 ## WORKING PAPERS AND MANUSCRIPTS UNDER REVIEW
-* **Jung, J.** (R&R). Uncovering Absence Patterns among LGBTQ+ Students: Evidence from 190,000 Students in 2013–2020.
+* **Jung, J.** (R&R for *Educational Researcher*). Uncovering Absence Patterns among LGBTQ+ Students: Evidence from 190,000 Students in 2013–2020.
 
-* **Jung, J.** & Fenelon, A. (Under review). Effects of Later School Start Time Policies on Sleep and Time Use Differ Across School Levels.
+* **Jung, J.** & Fenelon, A. (Under review at *PNAS*). Effects of Later School Start Time Policies on Sleep and Time Use Differ Across School Levels.
 
-* Gopalan, M., **Jung, J.**, Hanselman, P. (Under review). Historical Patterns and Trends in Teacher-Student Demographic Changes in the US. 
+* Gopalan, M., **Jung, J.**, Hanselman, P. (Under review at *Socius*). Historical Patterns and Trends in Teacher-Student Demographic Changes in the US. 
 
-* Byun, S., Park, S., Chung, H., **Jung, J.**, Shin, T., & Kim, J. (Under review). Does Shadow Education Affect Behavioral (Dis)Engagement? Evidence from South Korean Elementary School Students.
+* Byun, S., Park, S., Chung, H., **Jung, J.**, Shin, T., & Kim, J. (Under review at *Comparative Education Review*). Does Shadow Education Affect Behavioral (Dis)Engagement? Evidence from South Korean Elementary School Students.
+
+* **Jung, J.**, Gopalan, M. (In progress). Unpacking the Drivers of Teacher Demographic Shifts by Race/Ethnicity Over Five Decades. 
+
+* Kara, M., Rosinger, K., **Jung, J.** (In progrss). A National Examination of the Impact of State Loan Letter Legislation on Student Outcomes.
 
 
 ## SELECTED CONFERENCE PRESENTATIONS
