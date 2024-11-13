@@ -43,6 +43,8 @@ You can access my [Google Scholar Profile here](https://scholar.google.com/citat
 
 
 ## Working Papers and Manuscripts Under Review
-* **Jung, J.** (Under review). Uncovering Absence Patterns among LGBTQ+ Students: Evidence from 190,000 Students in 2013–2020.
+* **Jung, J.** (R&R). Uncovering Absence Patterns among LGBTQ+ Students: Evidence from 190,000 Students in 2013–2020.
+
+* **Jung, J.** & Fenelon, A. (Under review). Effects of Later School Start Time Policies on Sleep and Time Use Differ Across School Levels.
 
 * Byun, S., Park, S., Chung, H., **Jung, J.**, Shin, T., & Kim, J. (Under review). Does Shadow Education Affect Behavioral (Dis)Engagement? Evidence from South Korean Elementary School Students.
