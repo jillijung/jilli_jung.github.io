@@ -1,7 +1,7 @@
 ---
 title: "Jilli Jung"
 subtitle: "[Personal website](https://jillijung.github.io) | [Google Scholar](https://scholar.google.com/citations?user=7SVYZhEAAAAJ&hl=en) | Email: jilli@stanford.edu"
-date: November 12, 2024
+date: December 5, 2024
 date-format: long
 format:
   pdf:
@@ -43,11 +43,11 @@ format:
 
 ## PEER-REVIEWED JOURNAL ARTICLES
 
-* Gopalan, M., **Jung, J.**, Chiang, S., Linden-Carmichae, A., & Lanza, S. (Accepted). College Students’ Sense of Belonging and Alcohol Use amidst COVID-19: Evidence from a 21-day Daily Diary Study. *PloS one*.
+* Gopalan, M., **Jung, J.**, Chiang, S., Linden-Carmichae, A., & Lanza, S. (2024). College Students’ Sense of Belonging and Alcohol Use amidst COVID-19: Evidence from a 21-day Daily Diary Study. *PloS ONE*, 19(12). https://doi.org/10.1371/journal.pone.0310496.
 
-* **Jung, J.**, & Fenelon, A. (2024). Do later school start times improve adolescents' sleep and substance use? A quasi-experimental study. *Preventive Medicine*, 185. https://doi.org/10.1016/j.ypmed.2024.108028.
+* **Jung, J.**, & Fenelon, A. (2024). Do Later School Start Times Improve Adolescents' Sleep and Substance Use? A Quasi-experimental Study. *Preventive Medicine*, 185. https://doi.org/10.1016/j.ypmed.2024.108028.
 
-* **Jung, J.**, & Gopalan, M. (2023). The Stubborn Unresponsiveness of Youth Voter Turnout to Civic Education: Quasi-experimental Evidence from State-Mandated Civics Tests. *Educational Evaluation and Policy Analysis*. https://doi.org/10.3102/01623737231195887
+* **Jung, J.**, & Gopalan, M. (2024). The Stubborn Unresponsiveness of Youth Voter Turnout to Civic Education: Quasi-experimental Evidence from State-Mandated Civics Tests. *Educational Evaluation and Policy Analysis*, 46(4), 764-787. https://doi.org/10.3102/01623737231195887
     * Policy Brief: [Scholars Strategy Network](https://scholars.org/contribution/state-mandated-civics-test-policy-does-not)
     * Media Coverage: [AERA Newsroom](https://www.aera.net/Newsroom/Study-Finds-That-State-Mandated-Civics-Test-Policy-Does-Not-Improve-Youth-Voter-Turnout), [Diverse](https://www.diverseeducation.com/reports-data/article/15546897/study-cei-civics-test-policy-ineffective-at-improving-youth-voter-turnout), Education Week [1](https://www.edweek.org/teaching-learning/this-popular-high-school-civics-requirement-doesnt-boost-voting-habits/2023/09) [2](https://www.edweek.org/teaching-learning/elections-depend-on-young-voters-can-civics-tests-drive-up-their-turnout/2022/11), [Enid News](https://www.enidnews.com/news/study-civics-tests-dont-improve-voter-turnout/article_ea1834f6-566d-11ee-ac7b-d37def1c8f6b.html), [EurekAlert!](https://www.eurekalert.org/news-releases/1001334), [KOSU – NPR](https://www.kosu.org/education/2023-09-19/civics-test-mandates-like-oklahomas-havent-improved-young-voter-turnout-study-finds), [News Wise](https://www.newswise.com/articles/study-finds-that-state-mandated-civics-test-policy-does-not-improve-youth-voter-turnout?sc=rsla), [Pennsylvania State University News](https://www.psu.edu/news/education/story/civics-test-policy-fails-increase-youth-voter-turnout-researchers-find/?utm_audience=Combined&utm_source=newswire&utm_medium=email&utm_campaign=Education%20Headlines&utm_content=10-25-2023-09-52&utm_term=Stories%20-%201), [Phys Org](https://phys.org/news/2023-09-state-mandated-civics-policy-youth-voter.html), [Science Magazine](https://scienmag.com/civics-test-policy-fails-to-increase-youth-voter-turnout-researchers-find/), and [WLRN](https://www.wlrn.org/elections-coverage/2023-09-18/florida-civics-engagement-voter-turnout-elections).
 
@@ -82,10 +82,9 @@ format:
 
 * **Jung, J.** & Fenelon, A. (Under review). Effects of Later School Start Time Policies on Sleep and Time Use Differ Across School Levels.
 
+* Byun, S., Park, S., Chung, H., **Jung, J.**, Shin, T., & Kim, J. (R&R). Does Shadow Education Affect Behavioral (Dis)Engagement? Evidence from South Korean Elementary School Students.
+
 * Gopalan, M., **Jung, J.**, Hanselman, P. (Under review). Historical Patterns and Trends in Teacher-Student Demographic Changes in the US. 
-
-* Byun, S., Park, S., Chung, H., **Jung, J.**, Shin, T., & Kim, J. (Under review). Does Shadow Education Affect Behavioral (Dis)Engagement? Evidence from South Korean Elementary School Students.
-
 
 ## SELECTED CONFERENCE PRESENTATIONS
 † Indicates first author presentation

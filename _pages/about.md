@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! 
 
-I am a postdoctoral researcher at the [National Student Support Accelerator](https://studentsupportaccelerator.org/) at [Stanford University](https://ed.stanford.edu/).
+I am a postdoctoral researcher at the [SCALE Initiative](https://scale.stanford.edu/) at [Stanford University](https://ed.stanford.edu/).
 
 My research focuses on examining the causal effects of K-12 education policies on adolescents' educational and health outcomes using experimental and quasi-experimental methods. I am also interested in uncovering informative patterns and trends using descriptive methods and demographic techniques.
 
