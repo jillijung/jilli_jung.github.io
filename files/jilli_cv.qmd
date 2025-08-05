@@ -1,7 +1,7 @@
 ---
 title: "Jilli Jung"
 subtitle: "[Personal website](https://jillijung.github.io) | [Google Scholar](https://scholar.google.com/citations?user=7SVYZhEAAAAJ&hl=en) | Email: jilli@stanford.edu"
-date: December 5, 2024
+date: August 5, 2025
 date-format: long
 format:
   pdf:
@@ -23,7 +23,6 @@ format:
 - **B.A. in Ethics Education**, Minor: Sociology, Seoul National University (2013-2017)
 
 
-
 ## ACADEMIC EMPLOYMENT
 
 - **Post-doctoral Researcher**, Stanford University (2024-)
@@ -40,8 +39,11 @@ format:
     R, STATA, QUARTO, MPLUS
 
 
-
 ## PEER-REVIEWED JOURNAL ARTICLES
+
+* Byun, S., Park, S., Chung, H., **Jung, J.**, Shin, T., & Kim, J. (Accepted). Does Shadow Education Affect Behavioral (Dis)Engagement? Evidence from South Korean Elementary School Students. *Comparative Education Review*
+
+* Gopalan, M., **Jung, J.**, Hanselman, P. (2025). Historical Patterns and Trends in Teacher-Student Demographic Changes in the US. *Socius*, 11. https://doi.org/10.1177/23780231251321323
 
 * Gopalan, M., **Jung, J.**, Chiang, S., Linden-Carmichae, A., & Lanza, S. (2024). College Students’ Sense of Belonging and Alcohol Use amidst COVID-19: Evidence from a 21-day Daily Diary Study. *PloS ONE*, 19(12). https://doi.org/10.1371/journal.pone.0310496.
 
@@ -77,19 +79,32 @@ format:
 
 
 
-## WORKING PAPERS AND MANUSCRIPTS UNDER REVIEW
+## MANUSCRIPTS UNDER REVIEW
 * **Jung, J.** (R&R). Uncovering Absence Patterns among LGBTQ+ Students: Evidence from 190,000 Students in 2013–2020.
 
 * **Jung, J.** & Fenelon, A. (Under review). Effects of Later School Start Time Policies on Sleep and Time Use Differ Across School Levels.
 
-* Byun, S., Park, S., Chung, H., **Jung, J.**, Shin, T., & Kim, J. (R&R). Does Shadow Education Affect Behavioral (Dis)Engagement? Evidence from South Korean Elementary School Students.
+* **Jung, J.** & Gopalan, M. (Under review). Decomposing the Drivers of Teacher Demographic Shifts by Race/Ethnicity over Five Decades. 
 
-* Gopalan, M., **Jung, J.**, Hanselman, P. (Under review). Historical Patterns and Trends in Teacher-Student Demographic Changes in the US. 
+* Kara, M, **Jung, J.**, * Rosinger, K. (Under review). A National Study Examining the Impact of Student Loan Letter Legislation on College Enrollment, Borrowing, and Retention
+
+
+## WORKING PAPERS AND PAPERS IN PREPARATION
+* **Jung, J.** Who Runs for School Boards? The Racial and Gender Composition of Boards, 1996–2022
+
+* **Jung, J.**, Robinson, C., Loeb, S. The Effect of Working as a Tutor on Interest in Teaching: Evidence from Regression Discontinuity Design
+
+* **Jung, J.**, Robinson, C., Loeb, S. Tutors Like Me: The Impact of Demographic Matching Between Tutors and Students on Student Outcomes
+
+* **Jung, J.**, Robinson, C., Cortes, K., Loeb, S. The RCT Evaluation of a Three-year High-Impact Tutoring Program for Young Readers
+
+
+
 
 ## SELECTED CONFERENCE PRESENTATIONS
 † Indicates first author presentation
-
-- **2024**: Association for Education Finance and Policy†; Association for Public Policy Analysis and Management†; American Educational Research Association†; Comparative and International Education Society; Population Association of America†;
+- **2025**: Association for Public Policy Analysis and Management†; Society for Research on Educational Effectiveness†
+- **2024**: Association for Education Finance and Policy†; Association for Public Policy Analysis and Management†; American Educational Research Association†; Comparative and International Education Society; Population Association of America†
 - **2023**: Association for Education Finance and Policy†; Association for Public Policy Analysis and Management†; European Association for Research on Learning and Instruction; IEA International Research Conference; Midwest Political Science Association†; Society for Research on Educational Effectiveness†; Southern Economic Association†
 - **2022**: American Educational Research Association†; Comparative and International Education Society; Korean Education Longitudinal Study Conference; Pennsylvania State University College of Education Research Conference†
 - **2021**: International Conference on Education Research†; Korean Education Longitudinal Study Conference; Pennsylvania State University College of Education Research Conference†; Seoul National University College of Education Research Conference; Society for the Psychological Study of Social Issues†
