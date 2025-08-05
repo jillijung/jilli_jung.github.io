@@ -33,10 +33,10 @@ format:
 ## RESEARCH INTERESTS & TECHNICAL SKILLS
 
 - **Research Interests**:
-    Education policy, Human development, Non-academic outcomes, Demography, Civic education, Causal Inference, Equity
+    Education policy, Human development, Non-academic outcomes, Demography, Civic education, Causal Inference, Equity, Teacher workforce
 
 - **Technical Skills**:
-    R, STATA, QUARTO, MPLUS
+    R, STATA
 
 
 ## PEER-REVIEWED JOURNAL ARTICLES
@@ -57,26 +57,6 @@ format:
     * Best Paper Award 2023 in the thematic area of Applied Educational Research in the Journal for the Study of Education and Development
 
 * Yi, H. J., Shin, Y. J., Min, Y., Jeong, J., **Jung, J.**, & Kang, Y. (2023). Perception and Experience of Sexual and Gender Minority Korean Youth in School Counseling. *International Journal for the Advancement of Counselling*, 45(2), 189-209. https://doi.org/10.1007/s10447-022-09490-0
-
-
-### In Korean
-* Byun, S., Park, S., & **Jung, J.** (2024). Socioeconomic Disparities in Korean Children's Expected Occupational Status: An International Comparative Perspective. *Korean Journal of Sociology of Education*, 34(2), 55-87. http://dx.doi.org/10.32465/ksocio.2024.34.2.003
-
-* Chung, H., Park, S., **Jung, J.**, & Byun, S., (2024). The effect of graduating from a private elementary school on college admissions results. *Korean Journal of Sociology of Education*, 34(1), 197-236. http://dx.doi.org/10.32465/ksocio.2024.34.1.007
-
-* Byun, S., Chung, H., & **Jung, J.** (2022). The effect of private elementary school attendance on the likelihood of attending elite high schools. *Korean Journal of Sociology of Education*, 32(1), 59-89. http://dx.doi.org/10.32465/ksocio.2022.32.1.003
-    * Media Coverage: [Kukminilbo](https://m.kmib.co.kr/view.asp?arcid=0018047828&code=61121111&sid1=soc)
-
-* Kim, H., Yu, K., **Jung, J.** (2020). A longitudinal analysis of the characteristics of democratic citizens in South Korean moral education textbooks, 1973-2020. *Journal of Moral & Ethics Education*, 69, 375-410. http://dx.doi.org/10.18338/kojmee.2020..69.375
-
-* **Jung, J.**, & Hwang, S. (2020). The influence of family income on adolescents’ Grit: The mediation roles of extracurricular activities and parenting style. *Korean Journal of Youth Studies*, 27(11), 283-312. http://dx.doi.org/10.21509/KJYS.2020.11.27.11.283
-
-* **Jung, J.**, & Yu, K. (2020). The roles of national identity and intergroup contact on South Koreans’ attitudes toward North Korean defectors: A multicultural perspective. *Multicultural Education Studies*, 13(3), 85-111. http://dx.doi.org/10.14328/MES.2020.9.30.85
-
-* Kim, H., Yu, K., **Jung, J.**, Sin, J., & Kim, D. (2020). A longitudinal analysis of the contents of national and global citizenship in South Korean moral education textbooks, 1973-2020. *Journal of Moral & Ethics Education*, 68, 223-254. http://dx.doi.org/10.18338/kojmee.2020..68.223
-
-* **Jung, J.** (2019). Gender representation in middle school moral education textbooks in South Korea, 1973-2019. *Journal of Moral & Ethics Education*, 64, 241-270. http://dx.doi.org/10.18338/kojmee.2019..64.241 (in Korean)
-
 
 
 ## MANUSCRIPTS UNDER REVIEW
@@ -100,15 +80,40 @@ format:
 
 
 
+### PEER-REVIEWED JOURNAL ARTICLES IN KOREAN
+* Byun, S., Park, S., & **Jung, J.** (2024). Socioeconomic Disparities in Korean Children's Expected Occupational Status: An International Comparative Perspective. *Korean Journal of Sociology of Education*, 34(2), 55-87. http://dx.doi.org/10.32465/ksocio.2024.34.2.003
+
+* Chung, H., Park, S., **Jung, J.**, & Byun, S., (2024). The effect of graduating from a private elementary school on college admissions results. *Korean Journal of Sociology of Education*, 34(1), 197-236. http://dx.doi.org/10.32465/ksocio.2024.34.1.007
+
+* Byun, S., Chung, H., & **Jung, J.** (2022). The effect of private elementary school attendance on the likelihood of attending elite high schools. *Korean Journal of Sociology of Education*, 32(1), 59-89. http://dx.doi.org/10.32465/ksocio.2022.32.1.003
+    * Media Coverage: [Kukminilbo](https://m.kmib.co.kr/view.asp?arcid=0018047828&code=61121111&sid1=soc)
+
+* Kim, H., Yu, K., **Jung, J.** (2020). A longitudinal analysis of the characteristics of democratic citizens in South Korean moral education textbooks, 1973-2020. *Journal of Moral & Ethics Education*, 69, 375-410. http://dx.doi.org/10.18338/kojmee.2020..69.375
+
+* **Jung, J.**, & Hwang, S. (2020). The influence of family income on adolescents’ Grit: The mediation roles of extracurricular activities and parenting style. *Korean Journal of Youth Studies*, 27(11), 283-312. http://dx.doi.org/10.21509/KJYS.2020.11.27.11.283
+
+* **Jung, J.**, & Yu, K. (2020). The roles of national identity and intergroup contact on South Koreans’ attitudes toward North Korean defectors: A multicultural perspective. *Multicultural Education Studies*, 13(3), 85-111. http://dx.doi.org/10.14328/MES.2020.9.30.85
+
+* Kim, H., Yu, K., **Jung, J.**, Sin, J., & Kim, D. (2020). A longitudinal analysis of the contents of national and global citizenship in South Korean moral education textbooks, 1973-2020. *Journal of Moral & Ethics Education*, 68, 223-254. http://dx.doi.org/10.18338/kojmee.2020..68.223
+
+* **Jung, J.** (2019). Gender representation in middle school moral education textbooks in South Korea, 1973-2019. *Journal of Moral & Ethics Education*, 64, 241-270. http://dx.doi.org/10.18338/kojmee.2019..64.241 (in Korean)
+
 
 ## SELECTED CONFERENCE PRESENTATIONS
 † Indicates first author presentation
+
 - **2025**: Association for Public Policy Analysis and Management†; Society for Research on Educational Effectiveness†
+
 - **2024**: Association for Education Finance and Policy†; Association for Public Policy Analysis and Management†; American Educational Research Association†; Comparative and International Education Society; Population Association of America†
+
 - **2023**: Association for Education Finance and Policy†; Association for Public Policy Analysis and Management†; European Association for Research on Learning and Instruction; IEA International Research Conference; Midwest Political Science Association†; Society for Research on Educational Effectiveness†; Southern Economic Association†
+
 - **2022**: American Educational Research Association†; Comparative and International Education Society; Korean Education Longitudinal Study Conference; Pennsylvania State University College of Education Research Conference†
+
 - **2021**: International Conference on Education Research†; Korean Education Longitudinal Study Conference; Pennsylvania State University College of Education Research Conference†; Seoul National University College of Education Research Conference; Society for the Psychological Study of Social Issues†
+
 - **2020**: Comparative and International Education Society†; Korean Association for Multicultural Education International Conference†; Korean Children and Youth Panel Survey†; Korean Society for Moral & Ethics Education
+
 - **2019**: Comparative and International Education Society†; Korean Society for Moral & Ethics Education
 
 
