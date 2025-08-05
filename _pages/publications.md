@@ -8,6 +8,11 @@ author_profile: true
 You can access my [Google Scholar Profile here](https://scholar.google.com/citations?user=7SVYZhEAAAAJ&hl=en)
 
 ## Peer-reviewed Journal Articles
+
+* Byun, S., Park, S., Chung, H., **Jung, J.**, Shin, T., & Kim, J. (Accepted). Does Shadow Education Affect Behavioral (Dis)Engagement? Evidence from South Korean Elementary School Students. *Comparative Education Review*
+
+* Gopalan, M., **Jung, J.**, Hanselman, P. (2025). Historical Patterns and Trends in Teacher-Student Demographic Changes in the US. *Socius*, 11. [https://doi.org/10.1177/23780231251321323](https://doi.org/10.1177/23780231251321323). ([**Link to Open Access**](https://doi.org/10.1177/23780231251321323))
+
 * Gopalan, M., **Jung, J.**, Chiang, S., Linden-Carmichae, A., & Lanza, S. (2024). College Students’ Sense of Belonging and Alcohol Use amidst COVID-19: Evidence from a 21-day Daily Diary Study. *PloS ONE*, 19(12). [https://doi.org/10.1371/journal.pone.0310496](https://doi.org/10.1371/journal.pone.0310496). ([**Link to Open Access**](https://doi.org/10.1371/journal.pone.0310496))
 
 * **Jung, J.**, & Fenelon, A. (2024). Do later school start times improve adolescents' sleep and substance use? A quasi-experimental study. *Preventive Medicine*, 185. [https://doi.org/10.1016/j.ypmed.2024.108028](https://doi.org/10.1016/j.ypmed.2024.108028). ([**Link to Pre-print**](https://edworkingpapers.com/ai24-974))
@@ -41,12 +46,11 @@ You can access my [Google Scholar Profile here](https://scholar.google.com/citat
 * **Jung, J.** (2019). Gender representation in middle school moral education textbooks in South Korea, 1973-2019. *Journal of Moral & Ethics Education*, 64, 241-270. [http://dx.doi.org/10.18338/kojmee.2019..64.241](http://dx.doi.org/10.18338/kojmee.2019..64.241) (in Korean)
 
 
-
-## Working Papers and Manuscripts Under Review
+## Manuscripts under review
 * **Jung, J.** (R&R). Uncovering Absence Patterns among LGBTQ+ Students: Evidence from 190,000 Students in 2013–2020.
 
 * **Jung, J.** & Fenelon, A. (Under review). Effects of Later School Start Time Policies on Sleep and Time Use Differ Across School Levels.
 
-* Byun, S., Park, S., Chung, H., **Jung, J.**, Shin, T., & Kim, J. (R&R). Does Shadow Education Affect Behavioral (Dis)Engagement? Evidence from South Korean Elementary School Students.
+* **Jung, J.** & Gopalan, M. (Under review). Decomposing the Drivers of Teacher Demographic Shifts by Race/Ethnicity over Five Decades. 
 
-* Gopalan, M., **Jung, J.**, Hanselman, P. (Under review). Historical Patterns and Trends in Teacher-Student Demographic Changes in the US. 
+* Kara, M, **Jung, J.**, * Rosinger, K. (Under review). A National Study Examining the Impact of Student Loan Letter Legislation on College Enrollment, Borrowing, and Retention
